@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "Camiseta b\u00e1sica",
+        "precio": 19.99,
+        "descripcion": "Camiseta de algod\u00f3n 100% disponible en varios colores.",
+        "imagen": "camiseta.jpg",
+        "categoria": "Camisetas"
+    },
+    {
+        "nombre": "Pantal\u00f3n jeans",
+        "precio": 39.99,
+        "descripcion": "Jeans ajustados de corte moderno.",
+        "imagen": "jeans.jpg",
+        "categoria": "Pantalones"
+    },
+    {
+        "nombre": "Sudadera con capucha",
+        "precio": 49.99,
+        "descripcion": "Sudadera c\u00f3moda ideal para el invierno.",
+        "imagen": "sudadera.jpg",
+        "categoria": "Sudaderas"
+    },
+    {
+        "nombre": "Camiseta estampada",
+        "precio": 22.5,
+        "descripcion": "Camiseta con dise\u00f1o moderno y juvenil.",
+        "imagen": "camiseta.jpg",
+        "categoria": "Camisetas"
+    }
+]
